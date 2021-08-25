@@ -1,6 +1,6 @@
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
 
-# BASE FLUTTER PROJECT
+# Base Flutter Project
 
 New Flutter project with SonarQube configuration, lint, pre-commit and pre-push.
 
@@ -46,13 +46,17 @@ Install sonar-scanner as explained in the official documentation. It is recommen
 
 ## Docker-compose
 
-to start the sonarqube in the docker use the following command in root:
+To start the sonarqube in the docker use the following command in root:
 
 ```console
 docker-compose up
 ```
 
 Then check: http://localhost:9000/.
+
+User: admin
+Password: admin
+It is recommended to change credentials after first login
 
 ## Run analysis
 

@@ -7,7 +7,7 @@ New Flutter project with SonarQube configuration, lint, pre-commit and pre-push.
 ## SonarQube Features
 
 See:
-[Sonar FLutter Plugin](https://github.com/insideapp-oss/sonar-flutter)
+[Sonar Flutter Plugin](https://github.com/insideapp-oss/sonar-flutter)
 
 | Feature    | Supported                                                       |
 | ---------- | --------------------------------------------------------------- |

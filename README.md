@@ -24,7 +24,7 @@ See:
 
 Install Docker as explained on the official documentaiton page.
 
-[Docker](https://docs.docker.com/engine/install/)
+[Install Docker](https://docs.docker.com/engine/install/)
 
 ### Flutter SDK
 

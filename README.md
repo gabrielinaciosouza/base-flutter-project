@@ -20,9 +20,9 @@ See:
 
 ## Pre requisites
 
-Install Docker as explained on the official documentaiton page.
-
 ### Docker
+
+Install Docker as explained on the official documentaiton page.
 
 [Docker](https://docs.docker.com/engine/install/)
 

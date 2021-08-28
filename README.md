@@ -91,3 +91,9 @@ See:
 ## Pre-commit and pre-push
 
 The project was configured with githooks to format code in pre-commit and perform code analysis and testing in pre-push.
+
+run:
+
+```console
+git config core.hooksPath .githooks/
+```

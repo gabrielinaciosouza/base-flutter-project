@@ -97,3 +97,17 @@ Run in the root:
 ```console
 git config core.hooksPath .githooks/
 ```
+
+## Problems with docker on Windows?
+
+Run in powershell:
+
+```console
+wsl -d docker-desktop
+```
+
+then
+
+```console
+sysctl -w vm.max_map_count=262144
+```
